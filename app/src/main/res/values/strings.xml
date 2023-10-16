@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">This App is also Intents</string>
+    <string name="str_btn_adres">adres</string>
+    <string name="str_btn_website">Website</string>
+</resources>
